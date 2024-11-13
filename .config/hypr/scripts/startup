@@ -26,4 +26,4 @@ swaybg --output '*' --mode fill --image ~/.config/hypr/wallpapers/wallpaper.png 
 ~/.config/hypr/scripts/statusbar &
 
 # Start mpd
-exec mpd &
+# exec mpd &
